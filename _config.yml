@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Erik Babu
+baseurl: ""
+paginate: 1
+locale: "en"
+google_analytics: UA-112005763-1
